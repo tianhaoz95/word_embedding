@@ -18,7 +18,7 @@ jmespath==0.9.3
 jupyter-client==5.2.2
 jupyter-core==4.4.0
 matplotlib==2.1.2
-numpy==1.14.0
+numpy==1.22.0
 parso==0.1.1
 pexpect==4.3.1
 pickleshare==0.7.4
